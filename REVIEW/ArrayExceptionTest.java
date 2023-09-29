@@ -5,6 +5,5 @@ public class ArrayExceptionTest {
 		int[] two = (int[]) p;
 		System.out.println(two);
 		System.out.println(two[two.length]);
-		
     }
 }
